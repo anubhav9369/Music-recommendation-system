@@ -1,6 +1,7 @@
 # Core ML + Transformers
 torch==2.8.0
 transformers==4.44.0
+tokenizers==0.19.1
 numpy
 scipy
 
@@ -14,4 +15,4 @@ spotipy
 # Utilities
 requests
 pandas
-python-dotenv   # ✅ new addition for environment variable support
+python-dotenv
