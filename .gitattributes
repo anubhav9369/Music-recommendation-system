@@ -1,0 +1,11 @@
+# Track heavy model files with LFS
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+vocab.txt filter=lfs diff=lfs merge=lfs -text
+tokenizer.json filter=lfs diff=lfs merge=lfs -text
+# if your model directory is emotion_model/ and contains many files:
+emotion_model/* filter=lfs diff=lfs merge=lfs -text
+emotion_model/*.bin filter=lfs diff=lfs merge=lfs -text
+emotion_model/*.pt filter=lfs diff=lfs merge=lfs -text
+emotion_model/*.safetensors filter=lfs diff=lfs merge=lfs -text
