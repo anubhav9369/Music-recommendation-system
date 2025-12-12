@@ -129,17 +129,6 @@ The model predicts emotions from the GoEmotions dataset plus Neutral, including:
 
 ---
 
-## 📸 Screenshots / Demo
-
-*Add screenshots of your app UI here after running locally or on the deployed version.*
-
-Example placeholders:
-- Home Screen
-- Emotion Prediction Example
-- Playlist Recommendations
-
----
-
 ## 🤝 Contributors
 
 - **Suman Giri** (Lead Developer, NLP & Integration)
@@ -155,6 +144,7 @@ This project is licensed under the MIT License – feel free to use, modify, and
 ---
 
 **With this project, we bridge AI + Music, making technology more human-centered and emotionally aware.**
+
 
 
 
