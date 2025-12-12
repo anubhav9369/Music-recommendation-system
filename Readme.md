@@ -146,8 +146,6 @@ Example placeholders:
 - **P V Akhila** (Spotify API Integration & Deployment)
 - **Anubhav Verma** (Model Training & Dataset Processing)
 
-*A huge thanks to Anubhav Verma and P V Akhila for their active contributions in making this project a success.*
-
 ---
 
 ## 📜 License
@@ -157,4 +155,5 @@ This project is licensed under the MIT License – feel free to use, modify, and
 ---
 
 **With this project, we bridge AI + Music, making technology more human-centered and emotionally aware.**
+
 
